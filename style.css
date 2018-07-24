@@ -41,6 +41,7 @@ ul li a.active {
 
 .tabs-contents > div {
     display: none;
+    height: 200px;
     padding: 5px 10px;
     background-color: #ffffff;
     color: #000000;
